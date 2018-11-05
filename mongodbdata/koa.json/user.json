@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5b6a8e08016a18c37f5fe96b"},"username":"lisi111","age":"30","sex":"男","status":"1"}
+{"_id":{"$oid":"5b6a90973a65ed28689b7c1f"},"username":"zhangsan","age":"23","sex":"男","status":"1"}
+{"_id":{"$oid":"5b6a9183016a18c37f5fe96c"},"username":"wangwu","age":"35","sex":"男","status":"1"}
+{"_id":{"$oid":"5b6a9197016a18c37f5fe96d"},"username":"wangmazi","age":"23","sex":"男","status":"1"}

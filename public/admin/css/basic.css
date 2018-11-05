@@ -1,0 +1,16 @@
+/*
+* @Author: Wkiwi
+* @Date:   2018-08-09 09:53:41
+* @Last Modified by:   Wkiwi
+* @Last Modified time: 2018-08-13 18:09:13
+*/
+.form-horizontal .form-group{
+    height: 44px;
+}
+.sort_input{
+    width:40px;
+    text-align: center;
+}
+.pagination{
+    float:right;
+}
